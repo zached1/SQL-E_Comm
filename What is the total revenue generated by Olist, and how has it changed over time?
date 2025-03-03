@@ -37,3 +37,7 @@ it returned this in sqlite:
 1022425.32|2018 08
 4439.54|2018 09
 589.67|2018 10
+
+We can see that their sales started to ramp up in the spring of 2017 and peaked in Novemeber of 2017.
+It does look like they tend to have more orders over the summer.
+However, this analyses is based on capturing the revenue at the time the order is placed.
